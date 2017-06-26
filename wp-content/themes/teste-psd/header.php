@@ -4,7 +4,7 @@
 <title>Layout Simples</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" name='viewport'>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" name="viewport">
 <link rel="stylesheet" type="text/css" href="<?php echo home_url(); ?>/wp-content/themes/teste-psd/css/font-cardo.css">
 <link rel="stylesheet" type="text/css" href="<?php echo home_url(); ?>/wp-content/themes/teste-psd/css/estilo.css">
 </head>
