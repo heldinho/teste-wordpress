@@ -19,12 +19,13 @@ Tendo em vista as tabelas:</p>
 <br>
 <h2>Layout 4rodas (obrigatório)</h2>
 <p>O objetivo é transforma um PSD em um site responsivo, utilizar javascript para habilitar e desabilitar o menu, se possível utilizar alguns conceitos de javascript estruturado, seu js também será analisado.</p>
-<p>arquivos PSD em diretórios wp-content/themes/teste-psd/(desktop.psd e mobile.psd)</p>
+<p>arquivos PSD em diretórios <strong>wp-content/themes/teste-psd/(desktop.psd e mobile.psd)</strong></p>
 <p>O layout precisa utilizar um código semântico em html5 e CSS3, conceitos de site responsivo.</p>
 <p>Fazer o download do wordpress: https://wordpress.org/download/</p>
 <p>Integrar o layout do site em wordpress utilizando includes e boas práticas.</p>
 <br>
 <p>Os dois temas estão incluidos no wordpress</p>
+<p>Base de dados diretório <strong>Base_de_dados/wordpress.sql</strong></p>
 <br>
 <p><strong>username:</strong> admin</p>
 <p><strong>password:</strong> admin</p>
