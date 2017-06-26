@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h2>Controle de estoque (Diferencial) - 1 dia para executar o teste</h2>
+<h2>Controle de estoque (Diferencial)</h2>
 <p>Fazer um sistema de controle de estoque.</p>
 Tendo em vista as tabelas:</p>
 <p>Produto(id,nome,descrição,preço)</p>
@@ -17,7 +17,7 @@ Tendo em vista as tabelas:</p>
 <p>Fazer o download do wordpress: https://wordpress.org/download/</p>
 <p>Criar um CRUD no wordpress, utilizando um postType para cada modelo, ou seja, um postType com um customFields para Produto, Cliente, Pedido.</p>
 <br>
-<h2>Layout 4rodas (obrigatório) – 1 dia para executar o teste</h2>
+<h2>Layout 4rodas (obrigatório)</h2>
 <p>O objetivo é transforma um PSD em um site responsivo, utilizar javascript para habilitar e desabilitar o menu, se possível utilizar alguns conceitos de javascript estruturado, seu js também será analisado.</p>
 <p>arquivos PSD em diretórios wp-content/themes/teste-psd/(desktop.psd e mobile.psd)</p>
 <p>O layout precisa utilizar um código semântico em html5 e CSS3, conceitos de site responsivo.</p>
